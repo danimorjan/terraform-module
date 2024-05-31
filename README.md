@@ -44,7 +44,7 @@ module "main" {
     }
   ]
 }
-
+```
 
 ## Input Variables
 
